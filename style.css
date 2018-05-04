@@ -1,0 +1,105 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #000000;
+  /* Old browsers */
+  background: -moz-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+}
+
+/** Header styles **/
+.header {
+  background-image: url(http://virginiamori.com/app/wp-content/uploads/2016/07/VM_OcchialiVento.gif);
+  height: 525px;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+
+
+.roasting p {
+  color: #938E89;
+  text-align: center;
+  line-height: 24px;
+  font-family: 'Satisfy', cursive;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.spectrum div {
+  font-family: 'Caveat', cursive;
+  padding: 0 20px;
+  color: #FFFFFF;
+  overflow: auto;
+  opacity: 0.9;
+}
+
+.spectrum p {
+  color: #FFFFFF;
+  text-align: left;
+}
+
+/* Roast types */
+.green {
+  background-color: #A7BABF;
+}
+
+.light {
+  background-color: #739DA9;
+}
+
+
+/* Typography */
+h1 {
+  color: #41292C;
+  font-family: 'Caveat', cursive;
+  font-size: 85px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: left center;
+  top: 5%;
+}
+
+h2 {
+  color: #E4BB97;
+font-family: 'Caveat', cursive;
+  font-size: 28px;
+  font-weight: 500;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #41292C;
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  text-align: center;
+}
+
+
+
+/* Page elements */
+
+p {
+  color: #444444;
+  line-height: 32px;
+  font-family: 'Caveat', cursive;
+  font-size: 20px;
+  font-weight: 100;
+}
+
+a {
+  color: #214E34;
+  font-family: 'Caveat', cursive;
+  font-size: 13px;
+  font-weight: 900;
+  text-align: left;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 2px;
+}
